@@ -1,14 +1,11 @@
 About me (apage-pi)
 
-- 👋 Hi, I’m @apage-pi
-- 👀 I’m interested in ...
-Computing, Raspberry Pi, Linux/FOSS, etc.
-- 🌱 I’m currently learning ...
-Pi Pico C/C++, making a custom version of Lubuntu.
-- 💞️ I’m looking to collaborate on ...
-Not much rn
-- 📫 How to reach me ...
+- Hi, I’m Adam Page (@apage-pi)
+- I'm a developer currently in middle school.
+- I love computers, programming, system administration, network engineering, Linux, etc.
+- How to reach me ...
 Email: adam36514@outlook.com
+Username: @apage-pi
 
 <!---
 apage-pi/apage-pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
