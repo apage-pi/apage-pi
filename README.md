@@ -4,6 +4,8 @@ About me (apage-pi)
 - I'm a developer currently in middle school.
 - I love computers, programming, system administration, network engineering, Linux, etc.
 - How to reach me ...
+- I am here every now and again.
+- In the meantime, check out some of my latest projects!
 Email: adam36514@outlook.com
 Username: @apage-pi
 
